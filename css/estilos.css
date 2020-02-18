@@ -1,4 +1,4 @@
-aside, article, section, nav, header, footer {
+aside, article, section, nav, header, footer,table {
     display:block;
     margin: 0;
     padding: 0;
