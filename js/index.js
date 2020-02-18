@@ -45,19 +45,19 @@ starCountRef.on('value', function(snapshot) {
      robado.push(childData['robado']);
 
 
-    $("#lista_placas").append(childData['valor'] +  " ->" + childData['time']+  " ->"  );
+    $("#lista_placas").append(childData['valor'] +  "      ⇒      " + childData['time']+  "      ⇒      "  );
 $("#lista_placas").append("<br>");
-        $("#lista_placas1").append(childData['Propietario']+  " ->" + childData['cargo']+  " ->"  );
+        $("#lista_placas1").append(childData['Propietario']+  "      ⇒      " + childData['cargo']+  "      ⇒      "  );
 $("#lista_placas1").append("<br>");
             $("#lista_placas2").append(childData['robado'] );
 $("#lista_placas2").append("<br>");
   });
 
 
-  $("#lista_placas11").append(valor[valor.length-1] +  " ->" + time[time.length-1]+  " ->"  )
+  $("#lista_placas11").append(valor[valor.length-1] +  "      ⇒      " + time[time.length-1]+  "      ⇒      "  )
   /*console.log(propietario);
   console.log(cargo);*/
-  $("#lista_placas12").append(propietario[propietario.length-1]+  " ->" + cargo[cargo.length-1]+  " ->"  );
+  $("#lista_placas12").append(propietario[propietario.length-1]+  "      ⇒      " + cargo[cargo.length-1]+  "      ⇒      "  );
   /*console.log(robado);*/
   $("#lista_placas13").append(robado[robado.length-1] );
   
