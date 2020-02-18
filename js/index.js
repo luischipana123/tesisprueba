@@ -1,9 +1,9 @@
 // Your web app's Firebase configuration
-	  var getin = prompt("Pon la contraseña.")
-	  if (getin!="123456")
-	  {location.href='https://luischipana123.github.io/aa/'}
-	  else
-	  {alert('Contraseña correcta, acepta para ver la entrada')}
+var getin = prompt("Pon la contraseña.")
+if (getin!="123456")
+{location.href='https://luischipana123.github.io/aa/'}
+else
+{alert('Contraseña correcta, acepta para ver la entrada')}
 
 
 var firebaseConfig = {
