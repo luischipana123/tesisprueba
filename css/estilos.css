@@ -24,20 +24,20 @@ aside, article, section, nav, header, footer {
       height:100px;
       background:#E5CBA2;
   }
-  col1{
+  #col1{
   
       background:#AB8A6c;
       width:550px;
       float:left;
       
   }
-  col2{
+  #col2{
   
       background:#CCB18E;
       width:550px;
       float:left;
   }
-  col3{
+  #col3{
   
       background:#AB8A6c;
       width:550px;
