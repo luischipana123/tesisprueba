@@ -65,11 +65,13 @@ aside, article, section, nav, header, footer {
       text-align:center;
   }
   p{
-      padding-left:1em;
-      padding-right:1em;
-      padding-top:1em;
-      line-height:1.4em;
-  }
+	padding-left:1em;
+	padding-right:1em;
+	padding-top:1em;
+	font-size:1.1em;
+	line-height:3em;
+	color:#000080;
+}
   table{
       text-align: center;
   }
