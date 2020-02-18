@@ -57,6 +57,11 @@ aside, article, section, nav, header, footer {
   h3{
       color:#8B0000;
       font-size:.8em;
+      text-align:right;
+  }
+ h4{
+      color:#8B0000;
+      font-size:.8em;
       text-align:center;
   }
   p{
