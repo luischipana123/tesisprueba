@@ -40,7 +40,7 @@ starCountRef.on('value', function(snapshot) {
      robado.push(childData['robado']);
 
 
-    $("#lista_placas").append(childData['valor'] +  "      ⇒      " + childData['time']+  "      ⇒      "  );
+    $("#lista_placas").append(childData['valor'] +  "      " + childData['time']+  "      ⇒      "  );
 $("#lista_placas").append("<br>");
         $("#lista_placas1").append(childData['Propietario']+  "      ⇒      " + childData['cargo']+  "      ⇒      "  );
 $("#lista_placas1").append("<br>");
