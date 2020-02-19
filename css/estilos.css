@@ -65,10 +65,10 @@ aside, article, section, nav, header, footer {
       text-align:center;
   }
 h6{
-	padding-left:0.5em;
+	padding-left:1em;
 	padding-right:1em;
 	padding-top:1em;
-	font-size:1em;
+	font-size:1.2em;
 	line-height:1em;
 	color:#0A0A52;
 	text-align:center;
@@ -79,7 +79,7 @@ h6{
 	padding-right:1em;
 	padding-top:1em;
 	font-size:1.2em;
-	line-height:4em;
+	line-height:3em;
 	color:#0A0A52;
 }
 
