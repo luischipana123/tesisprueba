@@ -64,7 +64,7 @@ aside, article, section, nav, header, footer {
       font-size:.8em;
       text-align:center;
   }
-  p{
+  p1{
 	padding-left:1em;
 	padding-right:1em;
 	padding-top:1em;
@@ -72,6 +72,7 @@ aside, article, section, nav, header, footer {
 	line-height:4em;
 	color:#0A0A52;
 }
+
   table{
       text-align: center;
   }
