@@ -64,14 +64,14 @@ aside, article, section, nav, header, footer {
       font-size:.8em;
       text-align:center;
   }
- h4{
-	padding-left:1em;
+ p1{
+	padding-left:0.5em;
 	padding-right:1em;
 	padding-top:1em;
 	font-size:1em;
 	line-height:1em;
 	color:#0A0A52;
-      text-align:center;
+
   }
   p{
 	padding-left:1em;
