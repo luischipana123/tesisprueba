@@ -1,4 +1,4 @@
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://https://luischipana123.github.io/tesisprueba/">
+<META HTTP-EQUIV="Refresh" CONTENT="5;URL=http://https://luischipana123.github.io/tesisprueba/">
 
 var firebaseConfig = {
     apiKey: "AIzaSyA2I0KDq0E7gYTuQD2Kw4is8y6niZnsvag",
